@@ -1,0 +1,16 @@
+#username{
+    font-style: italic;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #1DA1F2;
+}
+body{
+    background-color: #C3F8FF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+li{
+    border-bottom: 1px solid white;
+    margin: 0.5rem;
+    padding: 0.5em;
+}
